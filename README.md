@@ -1,6 +1,7 @@
 # apasi
 
-A new Flutter project.
+A new Flutter project that I create to fulfill the task of UI/UX from Eudeka OSG4.
+apasi is just like mini wikipedia for mac product.
 
 ## Getting Started
 
